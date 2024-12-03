@@ -21,8 +21,7 @@ const Contact10 = (props) => {
               {props.content1 ?? (
                 <Fragment>
                   <span className="contact10-text20">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Suspendisse varius enim in ero.
+                  
                   </span>
                 </Fragment>
               )}

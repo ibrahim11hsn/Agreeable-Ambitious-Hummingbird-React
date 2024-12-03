@@ -464,27 +464,26 @@ Navbar8.defaultProps = {
   page2ImageSrc:
     'https://images.unsplash.com/photo-1666032250188-b6797784b249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTczMzIzMTU3MHw&ixlib=rb-4.0.3&q=80&w=1080',
   action2: undefined,
-  link3Url: 'https://www.teleporthq.io',
+  
   page3Description: undefined,
   page4ImageAlt: 'Image for Contact Page',
   action1: undefined,
   page2ImageAlt: 'Image for Features Page',
-  linkUrlPage4: 'https://www.teleporthq.io',
+  
   page4ImageSrc:
     'https://images.unsplash.com/photo-1719937050464-fbe1d6d3ba0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTczMzIzMTU3MHw&ixlib=rb-4.0.3&q=80&w=1080',
   page1ImageAlt: 'Image for Home Page',
   page1Description: undefined,
-  linkUrlPage2: 'https://www.teleporthq.io',
+  
   page2Description: undefined,
   link3: undefined,
-  link2Url: 'https://www.teleporthq.io',
-  linkUrlPage1: 'https://www.teleporthq.io',
+  
   page2: undefined,
   page3ImageAlt: 'Image for Services Page',
   page3: undefined,
   logoAlt: 'Medical Care System Logo',
   link4: undefined,
-  link1Url: 'https://www.teleporthq.io',
+  
   page1ImageSrc:
     'https://images.unsplash.com/photo-1614064548016-0b5c13ca2c85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTczMzIzMTU2OXw&ixlib=rb-4.0.3&q=80&w=1080',
   page4: undefined,
@@ -494,7 +493,7 @@ Navbar8.defaultProps = {
   page1: undefined,
   page4Description: undefined,
   link2: undefined,
-  linkUrlPage3: 'https://www.teleporthq.io',
+  
   page3ImageSrc:
     'https://images.unsplash.com/photo-1516575901726-efcb7a9895a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTczMzIzMTU3MHw&ixlib=rb-4.0.3&q=80&w=1080',
 }

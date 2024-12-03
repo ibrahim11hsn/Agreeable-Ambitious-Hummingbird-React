@@ -14,10 +14,9 @@ const Steps2 = (props) => {
               Discover the Power of Our Products
             </h2>
             <p className="thq-body-large">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse varius enim in eros elementum tristique. Duis cursus,
-              mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam
-              libero vitae erat.
+            Discover the Power of Our Medical System for Companies
+
+Unlock efficiency, precision, and seamless management with our advanced medical system. Designed for healthcare providers, our solution offers customizable features tailored to your company’s needs, from secure patient communication to real-time appointment scheduling. Streamline operations, reduce costs, and enhance patient care with a system that adapts to your workflow. Invest in innovation—empower your team and improve outcomes with our cutting-edge medical platform today!
             </p>
             <div className="steps2-actions">
               <button className="thq-button-animated thq-button-filled steps2-button">

@@ -10,11 +10,8 @@ const Footer4 = (props) => {
       <div className="footer4-max-width thq-section-max-width">
         <div className="footer4-content">
           <div className="footer4-logo1">
-            <img
-              alt={props.logoAlt}
-              src={props.logoSrc}
-              className="footer4-logo2"
-            />
+           
+         
           </div>
           <div className="footer4-links">
             <a
@@ -55,37 +52,14 @@ const Footer4 = (props) => {
                 </Fragment>
               )}
             </a>
-            <a
-              href="https://example.com"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="thq-body-small"
-            >
-              {props.link4 ?? (
-                <Fragment>
-                  <span className="footer4-text18">Link 4</span>
-                </Fragment>
-              )}
-            </a>
-            <a
-              href="https://example.com"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="thq-body-small"
-            >
-              {props.link5 ?? (
-                <Fragment>
-                  <span className="footer4-text20">Link 5</span>
-                </Fragment>
-              )}
-            </a>
+         
           </div>
         </div>
         <div className="footer4-credits">
           <div className="thq-divider-horizontal"></div>
           <div className="footer4-row">
             <div className="footer4-container">
-              <span className="thq-body-small">© 2024 TeleportHQ</span>
+              <span className="thq-body-small">© 2024 Ibrahim Alomari</span>
             </div>
             <div className="footer4-footer-links">
               <span className="footer4-text11 thq-body-small">
@@ -135,12 +109,12 @@ Footer4.propTypes = {
   cookiesLink: PropTypes.element,
   privacyLink: PropTypes.element,
   link2: PropTypes.element,
-  link4: PropTypes.element,
+  
   link1: PropTypes.element,
   logoAlt: PropTypes.string,
   link5: PropTypes.element,
   link3: PropTypes.element,
-  logoSrc: PropTypes.string,
+  
 }
 
 export default Footer4

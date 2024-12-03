@@ -32,7 +32,7 @@ const Pricing14 = (props) => {
                 <Fragment>
                   <span className="pricing14-text175">
                     <span>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      
                       <span
                         dangerouslySetInnerHTML={{
                           __html: ' ',
